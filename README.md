@@ -71,3 +71,11 @@ Visualization of the 3rd discriminator layer on generated images.
 ## License
 
 Everything is licensed under the MIT license.
+
+## References
+
+[1] Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., Courville, A., Bengio, Y. Generative Adversarial Networks. In Advances in neural information processing systems, pp. 2672–2680, 2014a.
+
+[2] van der Maaten, L., Hinton, G. Visualizing Data using t-SNE. Journal of Machine Learning Research 9 (2008) 2579-2605.Aniruddha Ghosh and Tony Veale. 2016.
+
+[3] Radford, A., Metz, L., Chintala, S. Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks. ICLR 2016.
